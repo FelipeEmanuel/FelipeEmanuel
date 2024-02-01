@@ -37,6 +37,8 @@ __Ensino Médio Técnico em Informática - IFPB__ - Junho de 2013 - Abril 2016
 __Bacharelado em Ciência da Computação - UFCG__ - Outubro de 2017 - Novembro de 2023
 
 ## Cursos
+<!-----
+
 <> __Curso completo de desenvolvimento Android (Udemy)__ <br/> 
 <> -Conteúdo: 332 aulas / 37 horas <br/> 
 <> -[Certificado](https://www.udemy.com/certificate/UC-1XNER8X5/ "Visualizar!") <br/>
@@ -44,3 +46,5 @@ __Bacharelado em Ciência da Computação - UFCG__ - Outubro de 2017 - Novembro 
 <> __Formação ReactJS (Alura)__ <br/> 
 <> -Conteúdo: 9 Cursos/Módulos / 100 horas <br/> 
 <> -[Certificado](https://cursos.alura.com.br/degree/certificate/26fcffd1-7615-4641-8ca0-6dd6efbc02e7 "Visualizar!") <br/>
+-->
+
