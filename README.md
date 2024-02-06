@@ -46,9 +46,26 @@ __Bacharelado em Ciência da Computação - UFCG__ - Outubro de 2017 - Novembro 
 <> -Conteúdo: 262 aulas / 23.5 horas <br/> 
 <> -[Certificado](https://www.udemy.com/certificate/UC-37512705-2234-4ed3-b369-a63954f0f7da/ "Visualizar!") <br/>
 
-<!-----
+<> __Curso completo MongoDB (Udemy)__ <br/>
+<> -Conteúdo: 171 aulas / 17.5 horas <br/>
+<> -[Certificado](https://www.udemy.com/certificate/UC-99d931ff-d406-476d-8766-6d9b5de76d10/ "Visualizar!") <br/>
+
 <> __Formação ReactJS (Alura)__ <br/> 
 <> -Conteúdo: 9 Cursos/Módulos / 100 horas <br/> 
-<> -[Certificado](https://cursos.alura.com.br/degree/certificate/26fcffd1-7615-4641-8ca0-6dd6efbc02e7 "Visualizar!") <br/>
--->
+
+<> __Formação Front-End (Alura)__ <br/>
+<> -Conteúdo: 18 Cursos/Módulos / 170 horas <br/>
+
+<> __Formação Node.js com Express__ (Alura) <br/>
+<> -Conteúdo: 10 Cursos/Módulos / 110 horas <br/>
+
+<> __Formação HTML e CSS para projetos WEB (Alura)__ <br/>
+<> -Conteúdo: 6 Cursos/Módulos / 53 horas <br/>
+
+<> __Formação JavaScript Front-End (Alura) <br/>
+<> -Conteúdo: 8 Cursos/Módulos / 62 horas <br/>
+
+<> __Formação Spring Framework (Alura) <br/>
+<> -Conteúdo: 12 Cursos/Módulos / 123 horas <br/>
+
 
