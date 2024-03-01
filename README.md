@@ -15,8 +15,8 @@ Formado em Ciência da Computação pela UFCG, moro em Campina Grande/PB e estou
 ## Habilidades:
 - Advanced English (Reading and Writing)
 - Python
-- Java(Core, Spring)</li>
-- NodeJS</li>
+- Java(Core, Spring)
+- NodeJS
 - MySQL - Sqlserver- MongoDB
 - Scrum
 - CSS
